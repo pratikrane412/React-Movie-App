@@ -11,6 +11,7 @@ A modern, fully responsive web application built with React that lets users sear
 - 🎬 **Trending & Popular:** Explore trending and popular movies.
 - 🖼️ **Screenshots:**  
   ![Homepage](public/screenshots/homepage.png)
+  
   ![Favoritepage](public/screenshots/favorite.png)
   
 
