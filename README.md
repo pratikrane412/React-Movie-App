@@ -1,12 +1,55 @@
-# React + Vite
+# React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive web application built with React that lets users search, explore, and discover movies using a dynamic and user-friendly interface. The app fetches data from a public movie API and provides users with movie details, ratings, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 **Search Movies:** Find movies by title.
+- 📄 **Detailed Info:** View movie details, ratings, genres, and release dates.
+- 📱 **Responsive Design:** Works seamlessly across devices.
+- ⭐ **Add to Favorites:** Save movies you love (if implemented).
+- 🎬 **Trending & Popular:** Explore trending and popular movies.
+- 🖼️ **Screenshots:**  
+  ![Homepage](screenshots/homepage.png) 
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/pratikrane412/React-Movie-App.git
+   cd React-Movie-App
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the app:**
+   ```bash
+   npm start
+   ```
+   The app will run locally at `http://localhost:3000`.
+
+### Configuration
+
+- If your app uses an API key (such as TMDb), create a `.env` file in the root and add your key:
+  ```
+  REACT_APP_API_KEY=your_api_key_here
+  ```
+
+## Technologies Used
+
+- [React](https://react.dev/)
+- [Axios](https://axios-http.com/) (or fetch API)
+- [React Router](https://reactrouter.com/) (if routing is implemented)
+- [Styled Components / CSS Modules / SCSS] (choose the one used)
+- [TMDb API](https://www.themoviedb.org/documentation/api) or other public movie API
+
+
+## Contact
+
+Created by [pratikrane412](https://github.com/pratikrane412)  
+Feel free to contact for any questions or collaboration opportunities.
