@@ -10,7 +10,7 @@ A modern, fully responsive web application built with React that lets users sear
 - ⭐ **Add to Favorites:** Save movies you love (if implemented).
 - 🎬 **Trending & Popular:** Explore trending and popular movies.
 - 🖼️ **Screenshots:**  
-  ![Homepage](screenshots/homepage.png) 
+  ![Homepage](public/screenshots/homepage.png) 
 
 ## Getting Started
 
