@@ -2,6 +2,8 @@
 
 A modern, fully responsive web application built with React that lets users search, explore, and discover movies using a dynamic and user-friendly interface. The app fetches data from a public movie API and provides users with movie details, ratings, and more.
 
+[React Movie App](https://pratik-react-movie-app.netlify.app/)
+
 ## Features
 
 - 🔍 **Search Movies:** Find movies by title.
