@@ -9,7 +9,7 @@ A modern, fully responsive web application built with React that lets users sear
 - 🔍 **Search Movies:** Find movies by title.
 - 📄 **Detailed Info:** View movie details, ratings, genres, and release dates.
 - 📱 **Responsive Design:** Works seamlessly across devices.
-- ⭐ **Add to Favorites:** Save movies you love (if implemented).
+- ⭐ **Add to Favorites:** Save movies you love.
 - 🎬 **Trending & Popular:** Explore trending and popular movies.
 - 🖼️ **Screenshots:**  
   ![Homepage](public/screenshots/homepage.png)
